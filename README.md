@@ -33,30 +33,6 @@
 
 ---
 
-### 🔥 Popular Repositories
-
-<p align="center">
-  <a href="https://github.com/Babi-Dalir/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=portfolio&theme=radical" alt="My Portfolio" />
-  </a>
-  <a href="https://github.com/Babi-Dalir/laravel-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=laravel-ecommerce&theme=radical" alt="E-Commerce with Laravel" />
-  </a>
-  <a href="https://github.com/Babi-Dalir/livewire-admin-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=livewire-admin-panel&theme=radical" alt="Admin Panel with Livewire" />
-  </a>
-</p>
-
----
-
-### 🐛 Active Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Babi-Dalir&bg_color=ffffff&color=00cc99&line=00cc99&point=00cc99&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
