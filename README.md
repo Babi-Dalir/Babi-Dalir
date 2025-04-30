@@ -33,6 +33,18 @@
 
 ---
 
+### 🔥 Popular Repositories
+
+Here are some of my most popular repositories:
+
+| Repository | Description |
+| --- | --- |
+| **[My Portfolio](https://github.com/Babi-Dalir/portfolio)** | Personal portfolio project that showcases all my projects and web development skills. |
+| **[Laravel Blog](https://github.com/Babi-Dalir/laravel-blog)** | A simple Laravel blog application with authentication and CRUD operations. |
+| **[Task Manager with Livewire](https://github.com/Babi-Dalir/task-manager-livewire)** | A task management app built using Laravel and Livewire. It includes real-time updates and dynamic task handling. |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
