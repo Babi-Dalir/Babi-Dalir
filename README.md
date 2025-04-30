@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6347">Babi Dalir</span></h1>
-<h3 align="center" style="font-weight:lighter; color:#555">A passionate <strong>Laravel</strong> & <strong>Livewire</strong> developer 🔥</h3>
+<h3 align="center" style="font-weight:lighter; color:#555">A passionate web developer focused on <strong>Laravel</strong> & <strong>Livewire</strong> 🖤</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=blue&style=plastic" alt="Profile Views" />
@@ -9,7 +9,9 @@
 
 ### 🌟 About Me
 
-I'm a **Laravel** and **Livewire** expert who loves creating clean, scalable, and efficient web apps. Passionate about building beautiful **backend** and **frontend** solutions. Let's make awesome things together! 🚀
+<p align="center">
+  I'm a passionate Laravel & Livewire developer who loves turning ideas into real, scalable web apps. Currently, diving deep into **PHP 8**, **Tailwind CSS**, and **Livewire** to build cutting-edge applications 🚀
+</p>
 
 ---
 
@@ -21,16 +23,13 @@ I'm a **Laravel** and **Livewire** expert who loves creating clean, scalable, an
 
 ---
 
-### 🚀 My Most Notable Projects
+### 🚀 Notable Projects
 
-#### 1. **[My Portfolio](https://your-portfolio-link.com)**
-   *A personal portfolio showcasing all my web development projects and achievements.*
-
-#### 2. **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)**
-   *A full-stack e-commerce platform built with Laravel, Livewire, and Stripe integration.*
-
-#### 3. **[Admin Panel with Livewire](https://github.com/Babi-Dalir/livewire-admin-panel)**
-   *A real-time, fully dynamic admin panel using Livewire and Laravel.*
+| Project | Description |
+| --- | --- |
+| **[My Portfolio](https://your-portfolio-link.com)** | Personal portfolio showcasing all my projects |
+| **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)** | E-commerce site with Laravel and Stripe integration |
+| **[Admin Panel with Livewire](https://github.com/Babi-Dalir/livewire-admin-panel)** | Real-time dynamic admin panel using Livewire |
 
 ---
 
@@ -42,7 +41,7 @@ I'm a **Laravel** and **Livewire** expert who loves creating clean, scalable, an
 
 ---
 
-### 📈 My GitHub Streak
+### 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Babi-Dalir&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -50,4 +49,31 @@ I'm a **Laravel** and **Livewire** expert who loves creating clean, scalable, an
 
 ---
 
-### 🌱 What I'm Learning Right Now
+### 🌱 Currently Learning
+
+- Mastering **PHP 8** and **Laravel 9** features
+- Exploring real-time app development with **Livewire**
+- Improving UI with **TailwindCSS**
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/babakdaliran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Babi%20Dalir-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:babakdaliran13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-babakdaliran13%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Babi-Dalir" alt="Avatar" width="200" style="border-radius:50%;" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1oJW8QKQhgl98Az8Xa/giphy.gif" alt="Developer GIF" width="250" />
+</p>
