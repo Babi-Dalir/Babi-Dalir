@@ -1,24 +1,56 @@
-### About Me
-Hi, I'm Babi Dalir, a passionate web developer from Iran. I have been in the tech world for over 5 years, and I specialize in **JavaScript**, **React**, and **Node.js**. I love building responsive and interactive web applications that solve real-world problems.
+<h1 align="center">Hi 👋, I'm Babi Dalir</h1>
+<h3 align="center">A passionate developer from Iran</h3>
 
-### Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, React, Redux
-- **Backend**: Node.js, Express, MongoDB, SQL
-- **Tools**: Git, GitHub, Docker, Nginx
-- **Other**: REST APIs, GraphQL, Webpack, Jest
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=0e75b6&style=flat" alt="Babi-Dalir" />
+</p>
 
-I am always learning and exploring new technologies to improve my skills. Currently, I am diving deep into **TypeScript** and **Next.js**.
+- 🌱 I’m currently learning **React, Node.js, and AI tools**
+- 💬 Ask me about **JavaScript, Python, and Web Development**
+- 📫 How to reach me: **babidalir@example.com**
+- ⚡ Fun fact: **I enjoy working on personal projects and open-source contributions!**
 
-### Projects
-- **[My Portfolio](https://your-portfolio-link.com)**: A personal website showcasing my work and projects.
-- **[Project 1](https://github.com/Babi-Dalir/project1)**: A full-stack application to manage tasks with authentication and real-time notifications.
-- **[Project 2](https://github.com/Babi-Dalir/project2)**: A React-based dashboard for data visualization.
+---
 
-### Future Goals
-I am always striving to improve my skills and expand my knowledge in **AI**, **Machine Learning**, and **Cloud Computing**. In the future, I aim to contribute more to open-source projects and work on challenging, impactful software development projects.
+### 🛠️ Languages and Tools:
 
-### Let's Connect
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project! I'm always open to new opportunities.
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:babidalir@example.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Babi-Dalir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streak Stats:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Babi-Dalir&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📘 Top Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babi-Dalir&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently working on:
+- [Project 1](link-to-project1) - Brief description of the project
+- [Project 2](link-to-project2) - Brief description of the project
+
+---
+
+### 📫 How to reach me:
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Portfolio: [Your Portfolio](https://your-portfolio-link.com)
