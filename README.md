@@ -27,7 +27,7 @@
 
 | Project | Description |
 | --- | --- |
-| **[My Portfolio](https://your-portfolio-link.com)** | Personal portfolio showcasing all my projects |
+| **[My Portfolio](https://github.com/Babi-Dalir/portfolio)** | Personal portfolio showcasing all my projects |
 | **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)** | E-commerce site with Laravel and Stripe integration |
 | **[Admin Panel with Livewire](https://github.com/Babi-Dalir/livewire-admin-panel)** | Real-time dynamic admin panel using Livewire |
 
