@@ -35,13 +35,25 @@
 
 ### 🔥 Popular Repositories
 
-Here are some of my most popular repositories:
+<p align="center">
+  <a href="https://github.com/Babi-Dalir/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=portfolio&theme=radical" alt="My Portfolio" />
+  </a>
+  <a href="https://github.com/Babi-Dalir/laravel-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=laravel-ecommerce&theme=radical" alt="E-Commerce with Laravel" />
+  </a>
+  <a href="https://github.com/Babi-Dalir/livewire-admin-panel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Babi-Dalir&repo=livewire-admin-panel&theme=radical" alt="Admin Panel with Livewire" />
+  </a>
+</p>
 
-| Repository | Description |
-| --- | --- |
-| **[My Portfolio](https://github.com/Babi-Dalir/portfolio)** | Personal portfolio project that showcases all my projects and web development skills. |
-| **[Laravel Blog](https://github.com/Babi-Dalir/laravel-blog)** | A simple Laravel blog application with authentication and CRUD operations. |
-| **[Task Manager with Livewire](https://github.com/Babi-Dalir/task-manager-livewire)** | A task management app built using Laravel and Livewire. It includes real-time updates and dynamic task handling. |
+---
+
+### 🐛 Active Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Babi-Dalir&bg_color=ffffff&color=00cc99&line=00cc99&point=00cc99&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 
