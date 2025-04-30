@@ -1,34 +1,35 @@
-<h1 align="center">Hi 👋, I'm Babi Dalir</h1>
-<h3 align="center">A passionate web developer focusing on <strong>Laravel</strong> and <strong>Livewire</strong>!</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF6347">Babi Dalir</span></h1>
+<h3 align="center" style="font-weight:lighter; color:#555">A passionate web developer focused on <strong>Laravel</strong> & <strong>Livewire</strong> 🖤</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-I'm a **Laravel** and **Livewire** enthusiast who loves building modern and scalable web applications. With a strong focus on clean code and elegant solutions, I’m always pushing to improve my skills in backend and frontend technologies.
+<p align="center">
+  I'm a passionate Laravel & Livewire developer who loves turning ideas into real, scalable web apps. Currently, diving deep into **PHP 8**, **Tailwind CSS**, and **Livewire** to build cutting-edge applications 🚀
+</p>
+
+---
 
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,livewire,js,git,mysql" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,livewire,js,git,mysql,tailwind,composer" alt="Skills" />
 </p>
-
-- **Backend**: PHP, Laravel, Livewire, MySQL, PostgreSQL
-- **Frontend**: HTML, CSS, JavaScript, TailwindCSS, Blade Templates
-- **Version Control**: Git, GitHub
-- **Tools**: Composer, Docker, Nginx, CI/CD, PHPUnit
 
 ---
 
 ### 🚀 Notable Projects
 
-- **[My Portfolio](https://your-portfolio-link.com)**: A personal portfolio showcasing my best work and projects.
-- **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)**: A full-stack e-commerce platform built with Laravel, Livewire, and Stripe integration.
-- **[Livewire Admin Panel](https://github.com/Babi-Dalir/livewire-admin-panel)**: A real-time admin dashboard using Livewire and Laravel, featuring dynamic content updates.
+| Project | Description |
+| --- | --- |
+| **[My Portfolio](https://your-portfolio-link.com)** | Personal portfolio showcasing all my projects |
+| **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)** | E-commerce site with Laravel and Stripe integration |
+| **[Admin Panel with Livewire](https://github.com/Babi-Dalir/livewire-admin-panel)** | Real-time dynamic admin panel using Livewire |
 
 ---
 
@@ -40,7 +41,7 @@ I'm a **Laravel** and **Livewire** enthusiast who loves building modern and scal
 
 ---
 
-### 📈 My GitHub Streak
+### 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Babi-Dalir&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -50,16 +51,13 @@ I'm a **Laravel** and **Livewire** enthusiast who loves building modern and scal
 
 ### 🌱 Currently Learning
 
-- Mastering **PHP 8** and **Laravel 9** features.
-- Improving **Livewire** and building modern real-time applications.
-- Exploring **Tailwind CSS** for responsive frontend designs.
+- Mastering **PHP 8** and **Laravel 9** features
+- Exploring real-time app development with **Livewire**
+- Improving UI with **TailwindCSS**
 
 ---
 
 ### 📫 Let's Connect!
-
-- **LinkedIn**: [Babi Dalir](https://www.linkedin.com/in/babakdaliran)
-- **Email**: [babakdaliran13@gmail.com](mailto:babakdaliran13@gmail.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/babakdaliran" target="_blank">
@@ -70,8 +68,12 @@ I'm a **Laravel** and **Livewire** enthusiast who loves building modern and scal
   </a>
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Babi-Dalir" alt="Avatar" width="200" style="border-radius:50%;" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Babi-Dalir" alt="Avatar" width="200" style="border-radius:50%;"/>
+  <img src="https://media.giphy.com/media/1oJW8QKQhgl98Az8Xa/giphy.gif" alt="Developer GIF" width="250" />
 </p>
