@@ -1,56 +1,53 @@
 <h1 align="center">Hi 👋, I'm Babi Dalir</h1>
-<h3 align="center">A passionate developer from Iran</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=0e75b6&style=flat" alt="Babi-Dalir" />
-</p>
-
-- 🌱 I’m currently learning **React, Node.js, and AI tools**
-- 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📫 How to reach me: **babidalir@example.com**
-- ⚡ Fun fact: **I enjoy working on personal projects and open-source contributions!**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats:
+<h3 align="center">A passionate web developer focused on <strong>Laravel</strong> and <strong>Livewire</strong>!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babi-Dalir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Babi-Dalir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🔥 Streak Stats:
+### 🔧 Skills & Technologies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Babi-Dalir&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,livewire" alt="Skills" />
 </p>
 
 ---
 
-### 📘 Top Languages:
+### 🚀 Projects
+
+- **[My Portfolio](https://your-portfolio-link.com)**: Personal portfolio to showcase my projects and achievements.
+- **[E-Commerce with Laravel](https://github.com/Babi-Dalir/laravel-ecommerce)**: Full-stack e-commerce site using Laravel and Livewire.
+- **[Admin Panel with Livewire](https://github.com/Babi-Dalir/livewire-admin-panel)**: Real-time admin panel with Laravel and Livewire.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babi-Dalir&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Babi-Dalir&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🌱 Currently working on:
-- [Project 1](link-to-project1) - Brief description of the project
-- [Project 2](link-to-project2) - Brief description of the project
+### 📈 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Babi-Dalir&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+### 🌱 Current Learning
+
+- Diving deeper into **PHP 8** features.
+- Mastering **Livewire** and **Tailwind CSS** for elegant frontend development.
+
+---
+
+### 📫 Let's Connect!
+
+- LinkedIn: [Babi Dalir](https://www.linkedin.com/in/babakdaliran)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [Your Portfolio](https://your-portfolio-link.com)
+- Email: [babidalir@example.com](mailto:babidalir@example.com)
